@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TanmayOG
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning 2nd yr Btech
-- 💞️ I’m looking for internship in flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me ...email (tanmayjha08@gmail.com)
 
 <!---
