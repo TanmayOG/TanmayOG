@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanmayOG
+- 👋 Hi, I’m Tanmay Jha
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me ...email (tanmayjha08@gmail.com)
 
