@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tanmayjha11" target="blank"><img src="https://img.shields.io/twitter/follow/tanmayjha11?logo=twitter&style=for-the-badge" alt="tanmayjha11" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Flutter, Nodejs, MongoDb, Reactjs, Express, Firebase**
 
 - 📫 How to reach me **tanmayjha08@gmail.com**
 
