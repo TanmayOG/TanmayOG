@@ -29,11 +29,7 @@ Shipping since before vibe coding existed.
 
 …and whatever the next problem needs.
 
-### Open source
 
-I contribute to the open-source tools I build with: fixing bugs, improving docs and shipping small features.
-
-- [repo-name](https://github.com/owner/repo/pull/123): what you fixed or added
 
 ### Reach me
 
